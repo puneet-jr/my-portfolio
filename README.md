@@ -1,4 +1,4 @@
-Here is a polished, professional `README.md` file tailored for your GitHub repository. It includes badges, clear sections, and better formatting to make your portfolio stand out.
+Here is the corrected and properly formatted `README.md` file. The main issues with the previous version were inconsistent indentation (using spaces vs. code block ticks) in the "Project Structure" section.
 
 ```markdown
 # 💻 M. Puneet Janakiram | Portfolio
@@ -119,7 +119,6 @@ MY-Portfolio/
 **M. Puneet Janakiram**
 
 - 📧 Email: [puneetjanakiram@gmail.com](mailto:puneetjanakiram@gmail.com)
-- 💼 LinkedIn: [M. Puneet Janakiram](https://www.linkedin.com/in/m-puneet-janakiram-9814402a5)
 - 🐙 GitHub: [puneet-jr](https://github.com/puneet-jr)
 
 ---
